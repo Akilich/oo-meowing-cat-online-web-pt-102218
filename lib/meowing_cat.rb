@@ -4,4 +4,3 @@ class Cat
   maru.meow
   puts "meow"
 end
-end
