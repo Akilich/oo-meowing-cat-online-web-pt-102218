@@ -2,6 +2,6 @@ class Cat
   maru=Cat.new
   attr_accessor :name
   
-  meow=STDOUT
+ STDOUT=meow
   maru.meow
 end
