@@ -6,3 +6,4 @@ class Cat
    puts "meow"
   maru.meow
 end
+end
